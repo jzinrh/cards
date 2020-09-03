@@ -1,10 +1,10 @@
-# TODOS
+# Backend
 
-- make stories for cards:
+pulumi + lambda + typescript
 
-  - each suit
-  - face cards
+cicd: https://www.pulumi.com/docs/guides/continuous-delivery/github-actions/
+lambda web sockets: https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html
 
-- make stories for hands
-  - 5 cards
-  - 10+ cards
+# Frontend
+
+react + styled components + typescript + storybook + percy
